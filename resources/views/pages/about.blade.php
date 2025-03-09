@@ -17,36 +17,24 @@
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 justify-center items-center">
 
                 <div class="space-y-6 pl-0 lg:pl-12">
-                    <h3 class="text-primary uppercase text-sm tracking-widest font-semibold">More About Us</h3>
+                    <h3 class="text-primary uppercase text-sm tracking-widest font-semibold">Who We Are
+                    </h3>
                     <h1
-                        class="font-bold text-[30px] md:text-[45px] lg:text-[59px] leading-none w-full xl:w-3/4 text-primary">
-                        Cut your costs by up to 50%</h1>
+                        class="font-bold text-[30px] md:text-[45px] lg:text-[59px] leading-none w-full text-primary">
+                        Driving financial growth with strategic solutions.</h1>
                     <p class="w-full xl:w-3/4 text-base text-textGray">
-                        Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-                        minim veniam, quis nostrud exercitation ullamco.</p>
+                        RenAcquire Limited is a leading advisory and investment banking firm committed to fostering economic
+                        growth and financial empowerment. With a focus on innovation and integrity, we deliver tailor-made
+                        solutions that address the unique needs of our clients.
+                        .</p>
 
                     <div class="hidden pt-6 md:flex justify-start items-center gap-8">
-                        <button
-                            class="bg-primary py-4 px-10 font-semibold text-base text-white transition-all duration-150 hover:opacity-90">
-                            Explore Now
-                        </button>
 
-                        <div>
-                            <a href="">
-                                {{-- <span
-                                    class="bg-white mr-4 p-4 rounded-full font-semibold text-base text-primary transition-all duration-150 hover:opacity-90">
-                                    <i class="fa-solid fa-phone"></i>
-
-                                </span> --}}
-                                {{-- <span> 0 800 555 44 33</span> --}}
-                            </a>
-
-                        </div>
                     </div>
                 </div>
 
                 <div class="">
-                    <img class="w-[35rem] h-[20rem] md:h-[37rem] object-cover" src="{{ asset('assets/hero.jpg') }}"
+                    <img class="w-[35rem] h-[20rem] md:h-[37rem] object-cover" src="{{ asset('assets/img/image3.png') }}"
                         alt="">
                 </div>
             </div>
@@ -84,7 +72,8 @@
                             Vision
                         </h3>
                         <p class="text-center text-lightGray">
-                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi, quidem!
+                            To be the most trusted partner for innovative financial solutions in Africa and beyond.
+
                         </p>
                         <button
                             class="hidden md:block absolute -bottom-10 opacity-0 transform translate-y-12 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500 ease-in-out">
@@ -102,7 +91,7 @@
                             Mission
                         </h3>
                         <p class="text-center text-lightGray">
-                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi, quidem!
+                            To empower our clients with financial strategies that drive sustainable growth and prosperity.
                         </p>
                         <button
                             class="hidden md:block absolute -bottom-10 opacity-0 transform translate-y-12 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500 ease-in-out">
@@ -119,10 +108,14 @@
                             </span>
                         </p>
                         <h3 class="text-3xl font-bold group-hover:text-primary">
-                            Core Values
+                            Our Leadership
+
                         </h3>
                         <p class="text-center text-lightGray">
-                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi, quidem!
+                            Our team comprises seasoned professionals with decades of experience in advisory, lending,
+                            transaction structuring, and wealth management. We bring a wealth of knowledge and expertise to
+                            every client relationship.
+
                         </p>
                         <button
                             class="hidden md:block absolute -bottom-10 opacity-0 transform translate-y-12 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500 ease-in-out">
@@ -130,6 +123,59 @@
                         </button>
                     </a>
 
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <section class="bg-softWhite">
+        <div class="container mx-auto px-6 py-12 md:py-24 lg:px-0 xl:px-16">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 justify-center items-center">
+
+
+                <div class="">
+                    <img class="w-[35rem] h-[20rem] md:h-[37rem] object-cover" src="{{ asset('assets/img/image2.png') }}"
+                        alt="">
+                </div>
+                <div class="space-y-6 pl-0 lg:pl-12">
+
+                    <h1
+                        class="font-bold text-[30px] md:text-[45px] lg:text-[59px] leading-none w-full xl:w-3/4 text-primary">
+                        Message from the Managing Director
+                    </h1>
+                    <p class="w-full xl:w-3/4 text-base text-textGray">
+                        Dear Stakeholders,
+
+
+
+                        .</p>
+
+                    <p class="w-full xl:w-3/4 text-base text-textGray">
+
+                        At RenAcquire Limited, we are committed to delivering tailored financial solutions that help
+                        businesses navigate complex challenges and achieve their strategic objectives. Drawing from decades
+                        of experience, we work closely with our clients to unlock growth opportunities, structure innovative
+                        transactions, and deliver measurable value.
+
+                        Our goal is to partner with businesses and institutions to create innovative, client-focused
+                        solutions that deliver real impact. In today’s dynamic environment, we believe collaboration is key
+                        to unlocking full potential, and we welcome opportunities to work with visionary organisations
+                        seeking sustainable growth.
+
+                        Thank you for choosing RenAcquire as your trusted partner. Together, we can achieve extraordinary
+                        results.
+
+                    </p>
+
+
+
+                    <div class="hidden pt-6 md:flex justify-start items-center gap-8">
+
+                    </div>
                 </div>
 
             </div>

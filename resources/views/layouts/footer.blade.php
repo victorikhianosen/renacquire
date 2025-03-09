@@ -10,7 +10,7 @@
                 </a>
                 <div class="flex justify-start items-center gap-2">
                     <span><i class="fa-solid fa-location-dot text-2xl"></i></span>
-                    <p class="wi-full md:w-3/5"> 33A1 Remi Fani Kayode Street, Off Isaac John Ikeja GRA, Ikeja Lagos
+                    <p class="wi-full md:w-3/5"> 111 RenAcquire , Off Isaac John Ikeja GRA, Ikeja Lagos
                     </p>
                 </div>
 
@@ -97,7 +97,7 @@
                                 <span class="hidden md:block">
                                     <i class="fa-solid fa-envelope"></i>
                                 </span>
-                                <span class="block">
+                                <span class="block text-sm md:text-base">
                                     +234 702-233-4455
                                 </span>
                             </a>

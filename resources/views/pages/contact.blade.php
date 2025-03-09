@@ -73,13 +73,13 @@
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 justify-center items-center">
 
                 <di>
-                    <h2 class="text-3xl md:text-4xl w-full md:w-2/4 font-bold">
-                        Have questions?
-                        Get in touch!
+                    <h2 class="text-3xl md:text-4xl w-full font-bold">
+                   Have questions or looking to partner with us? We’d love to hear from you.
+
                     </h2>
                     <div class="w-full pt-16">
                         {{-- <form class="space-y-6">
-                         
+
                             <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 md:gap-8 justify-start items-start">
                                 <div class="space-y-2 group">
                                     <label class="block text-gray" for="name">First Name</label>
